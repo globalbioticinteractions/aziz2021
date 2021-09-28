@@ -1,0 +1,79 @@
+{
+  "@context" : [ "http://www.w3.org/ns/csvw", {
+    "@language" : "en"
+  } ],
+  "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+  "tables" : [ {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "Supplementary_Information_2_Pteropodid-Plant_Database_1985-2020_05Mar2021.tsv",
+    "dcterms:bibliographicCitation" : "Aziz, S. A., McConkey, K. R., Tanalgo, K., Sritongchuay, T., Low, M.-R., Yong, J. Y., … Racey, P. A. (2021). The Critical Importance of Old World Fruit Bats for Healthy Ecosystems and Economies. Frontiers in Ecology and Evolution, 9. doi:10.3389/fevo.2021.641411",
+    "delimiter" : "\t",
+    "headerRowCount" : 8,
+    "interactionTypeName" : "interactsWith",
+    "interactionTypeId" : "http://purl.obolibrary.org/obo/RO_0002437",
+    "doi": "10.3389/fevo.2021.641411",
+    "null" : [ "unknown" ],
+    "tableSchema" : {
+      "columns" : [ {
+        "name" : "sourceTaxonName",
+        "titles" : "Pteropodid species",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonFamily",
+        "titles" : "Plant family",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonGenus",
+        "titles" : "Plant genus",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonSpecificEpithet",
+        "titles" : "Plant species",
+        "datatype" : "string"
+      }, {
+        "name" : "Fr",
+        "titles" : "Fr",
+        "datatype" : "string"
+      }, {
+        "name" : "Fl",
+        "titles" : "Fl",
+        "datatype" : "string"
+      }, {
+        "name" : "L",
+        "titles" : "L",
+        "datatype" : "string"
+      }, {
+        "name" : "Se",
+        "titles" : "Se",
+        "datatype" : "string"
+      }, {
+        "name" : "B",
+        "titles" : "B",
+        "datatype" : "string"
+      }, {
+        "name" : "T",
+        "titles" : "T",
+        "datatype" : "string"
+      }, {
+        "name" : "Sa",
+        "titles" : "Sa",
+        "datatype" : "string"
+      }, {
+        "name" : "localityName",
+        "titles" : "Country/ Region",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceCitation",
+        "titles" : "Reference",
+        "datatype" : "string"
+      }, {
+        "name" : "Aspect studied/recorded/observed",
+        "titles" : "Aspect studied/recorded/observed",
+        "datatype" : "string"
+      } ]
+    }
+  } ]
+}

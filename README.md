@@ -1,0 +1,5 @@
+[![Review](https://github.com/globalbioticinteractions/aziz2021/actions/workflows/review.yml/badge.svg)](https://github.com/globalbioticinteractions/aziz2021/actions) [![Build Status](https://travis-ci.com/globalbioticinteractions/aziz2021.svg)](https://travis-ci.com/globalbioticinteractions/aziz2021) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/aziz2021&refutes=true&refutes=false)](https://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/aziz2021)
+
+Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
+
+Aziz, S. A., McConkey, K. R., Tanalgo, K., Sritongchuay, T., Low, M.-R., Yong, J. Y., … Racey, P. A. (2021). The Critical Importance of Old World Fruit Bats for Healthy Ecosystems and Economies. Frontiers in Ecology and Evolution, 9. doi:10.3389/fevo.2021.641411
